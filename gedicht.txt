@@ -1,7 +1,7 @@
 Rot
 
-Grün
-
+Hellgrün
+dunkelgrün
 Blau
 Geld
 Sind alles tolle Farben.
