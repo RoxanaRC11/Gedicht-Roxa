@@ -5,3 +5,4 @@ Grün
 Blau
 Geld
 Sind alles tolle Farben.
+Magenta
